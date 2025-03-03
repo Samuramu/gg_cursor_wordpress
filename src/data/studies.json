@@ -1,0 +1,203 @@
+{
+  "studies": [
+    {
+      "authors": "Gorelik et al., (in press)",
+      "journal": "Heliyon",
+      "population": "Couples",
+      "module": "ROCD",
+      "isRct": true,
+      "summary": [
+        "ROCD is detrimental to couples' resilience",
+        "GGRO mobile app targets ROCD cognitions and attachment insecurities",
+        "A RCT evaluated the effects of GGRO when used by both partners",
+        "Resilience was assessed using a resilience task and pre-post-follow up measures",
+        "GGRO use was associated with increase couple's resilience to ROCD symptoms"
+      ],
+      "fullText": "Relationship Obsessive Compulsive Disorder (ROCD) is a disabling form..."
+    },
+    {
+        "authors": "Abramovitch et al., (in press)",
+        "journal": "British Journal of Clinical Psychology",
+        "population": "High perfectionism",
+        "module": "Perfectionism",
+        "isRct": true,
+        "summary": [
+            "Perfectionism is a common transdiagnostic problem that may lead to substantial distress and functional impairments.",
+            "CBT is an effective treatment for perfectionism",
+            "An RCT assessing the efficacy of the GGtude mHealth platform in students with high perfectionism tendencies was undertaken",
+            "Compared with the waitlist condition, the app condition demonstrated a greater reduction in perfectionism, obsessive-compulsive symptoms, functional impairments and subjective ratings of emotional burden"
+        ],
+        "fullText": "Objectives\n\nPerfectionism is a common transdiagnostic problem that may lead to substantial distress and functional impairments. Cognitive behavioural therapy (CBT) is an effective treatment for perfectionism. However, the existing significant barriers to access and utilization of mental health services, including among college students, demand the development of low-intensity accessible interventions. The aim of the present study was to evaluate the effectiveness of a low-intensity CBT-based self-help gamified app developed specifically for perfectionism in a sample of college students.\n\nMethods\n\nParticipants completed assessments of perfectionism, related symptoms, emotional burden and functional impairments at pretreatment, posttreatment and at one-month follow-up.\n\nResults\n\nCompared with the waitlist condition (n = 35), the app condition (n = 35) demonstrated a significant and greater reduction in perfectionism, obsessive-compulsive symptoms, functional impairments and subjective ratings of emotional burden.\n\nConclusions\n\nResults suggest that a brief, daily app-based game-like intervention targeting maladaptive perfectionistic beliefs may be a viable, low-cost alternative to traditional CBT treatments for vulnerable populations on college campuses."
+    },
+    {
+      "authors": "Gamoran et al., (2023)",
+      "journal": "Journal of Obsessive Compulsive and Related Disorders",
+      "population": "Mild to severe OCD",
+      "module": "OCD",
+      "isRct": false, 
+      "summary": [
+        "RCTs support the efficacy of the GGtude mobile platform for OCD.",
+        "App use is also associated with decreased OCD symptoms in real world settings",
+        "Users with moderate and severe OCD symptoms showed the strongest effects",
+        "A meaningful proportion of users reached clinically significant improvement",
+        "Moderators of change differed for short-term and long-term use"
+      ],
+      "fullText": "Background: Randomized controlled trials (RCTs) indicate that mobile delivered training targeting OCD cognitions is effective in reducing OCD symptoms. However, interventions shown to be effective in RCTs may be less effective in real world settings.\n\nMethods: Real world data of “OCD.app – Anxiety, Mood & Sleep” users was collected from October 2020 to June 2022. Users’ OCD symptoms, trait and state mood scores were evaluated at baseline (T0; n = 46,955), payment barrier (T1; n = 13,568), and at the final level (T-final; n = 1732).\n\nResults: Dropout rates were higher for women and associated with younger age. Medium effect size reductions in OCI-R scores from T0 to T1 (Cohen’s d = 0.37) and medium-large (Cohen’s d = 0.66) reductions from T0 to T-final were found. Effects remained when controlling for demographic data and mood and were strongest for users with severe OCD symptoms. Clinically significant improvement (OCI-R change ≥21) was found in 16% of users with severe OCD symptoms. Although stable user traits were prominent moderators of change following short-term use, app usage indicators were more notable over longer training periods.\n\nConclusions: Real world data supports the effectiveness of OCD.app for reducing the full range of OCD symptoms.",
+      "participants": 13568
+    },
+    {
+        "authors": "Cerea et al., (2022), Italy",
+        "journal": "Body Image",
+        "population": "High risk BID’s",
+        "module": "Body image",
+        "isRct": true,
+        "summary": [
+            "Body dissatisfaction has been related to Body Image Disorders (BIDs) such as Eating Disorders (EDs) and Body Dysmorphic Disorder (BDD).",
+            "This study investigates the efficacy of a mHealth app in reducing body dissatisfaction, BDD/ED symptoms and related features."
+        ],
+        "fullText": "Objective: Body dissatisfaction has been related to Body Image Disorders (BIDs) such as Eating Disorders (EDs) and Body Dysmorphic Disorder (BDD). This study investigates the efficacy of a mHealth app in reducing body dissatisfaction, BDD/ED symptoms and related features.\n\nMethod: Ninety-five Italian women who were high-risk of developing BIDs were randomized into immediate-use of the App (iApp group) and delayed-use of the App (dApp group). The iApp group started using the app at baseline for 16 days while the dApp group started using the app from day 16 to day 32. Participants completed questionnaires at baseline, 16 days from baseline, and 32 days from baseline.\n\nResults: Compared to the dApp, the iApp group demonstrated a greater decrease in BDD symptoms and body dissatisfaction at the 16 day mark. These results were maintained at the 2 week follow-up. In terms of pre and post-training, the dApp group showed a decrease in scores of all measures from day 16 to day 32, with the exception of the self-esteem scale which increased at the 16 day mark.\n\nConclusion: The results indicate that short, daily use of a CBT-based app might reduce some forms of body dissatisfaction in young females at risk of developing a BIDs. Individuals in the iApp group had fewer thoughts and behaviors associated to extreme body dissatisfaction and BDD and lower discontentment with the overall shape and with the size of the areas of the body.\n\nCite: Cerea S., Doron, G., Manoli, E., Patania, F., Bottesi, G., & Ghisi, M. (in press). Cognitive training via a mobile application to reduce some forms of body dissatisfaction in young females at high-risk for body image disorders: A randomized controlled trial. Body Image."
+    },
+    {
+        "authors": "Oron et al., (2022), Israel",
+        "journal": "Health Informatics Journal",
+        "population": "Clinical",
+        "module": "Tinnitus",
+        "isRct": false,
+        "summary": [
+           "Tinnitus is the perception of sounds, often hissing or ringing, in the absence of any external stimulus.",
+            "This study assessed the effectiveness of mobile delivered cognitive training exercises to reduce tinnitus-related distress."
+        ],
+        "fullText": "Objective: Tinnitus is the perception of sounds, often hissing or ringing, in the absence of any external stimulus. This study assessed the effectiveness of mobile delivered cognitive training exercises to reduce tinnitus-related distress.\n\nMethod: Real world data of GG Tinnitus (GGTI) users was collected for 2 weeks. Users progressively complete 48 levels dedicated to tinnitus and associated maladaptive attitudes. Users are given feedback depending on the time it took them to complete the level. A brief memory quiz follows where they are asked to recall which statement appeared in the level they have just completed.\n\nResults: Training several minutes a day, decreased the patients’ tinnitus intrusiveness and handicap. More than 85% of participants that completed the intervention showed an amelioration in their Tinnitus Handicap Inventory (THI) scores by the end of the training period and that 50% of completers have shown reliable change as indicated by their Reliable Change Index (RCI) scores. No changes in mood rating were found across the three assessment occasions.\n\nConclusion: Brief, daily, mobile delivered, cognitive interventions challenging catastrophic beliefs about tinnitus-related sounds may lead to a significant reduction in tinnitus-related distress.\n\nCite: Oron, Y., Ben David, B., & Doron, G. (2022). Brief cognitive-behavioral training for tinnitus relief using a mobile application: A pilot open trial. Health Informatics Journal, 28."
+    },
+    {
+        "authors": "Akin-Sari et al., (2022), Turkey",
+        "journal": "Behavior Therapy",
+        "population": "High risk OCD",
+        "module": "OCD",
+        "isRct": true,
+        "summary": [
+            "The COVID-19 pandemic has exacerbated OCD-related symptoms and interrupted access to treatment.",
+            "Recent research suggests mental health apps are promising tools for coping with OCD symptoms.",
+            "This randomized controlled trial evaluated the effects of a CBT-based mobile application designed to reduce OCD symptoms and cognitions in community participants considered at high risk of developing OCD symptoms."
+               ],
+        "fullText": "Objective: The COVID-19 pandemic has exacerbated OCD-related symptoms and interrupted access to treatment. Recent research suggests mental health apps are promising tools for coping with OCD symptoms. This randomized controlled trial evaluated the effects of a CBT-based mobile application designed to reduce OCD symptoms and cognitions in community participants considered at high risk of developing OCD symptoms.\n\nMethod: Participants were recruited through university mailing lists and social media. 55 participants were randomly assigned to the iApp (n = 28) and dApp (n = 27) groups. The iApp group started using GG OCD for 12 consecutive days. The participants in the dApp group were asked to start using GG OCD after the iApp group completed GG OCD and use it for 12 consecutive days. Both groups completed self-report questionnaires in the beginning, at the 12 day mark and at the end.\n\nResults: The short, daily cognitive exercises on GG OCD were associated with improved OCD symptom and cognition measures and these effects persisted at follow-up. Interaction effects revealed significantly fewer OCD symptoms, obsessive beliefs, and intolerance of uncertainty immediately after the 12 day mark assessment in the iApp group compared to the dApp group. These results were maintained at follow-up. Furthermore, once participants in the dApp group started using GG OCD (following crossover), they reported similar large effect-size reductions in their OCD symptoms and cognitions. Thus, the effects found in iApp group were replicated in the dApp group.\n\nConclusion: Our findings suggest that even a brief, daily cognitive intervention without behavioral elements may lead to a significant reduction in OCD symptoms and cognitions during times of uncertainty, increased stress, and anxiety.\n\nCite: Akin-Sari, B., Inozu, M., Haciomeroglu, A. B., Trak, E., Tufan, D., & Doron, G. (2022). Cognitive training using a mobile app as a coping tool against COVID-19 distress: A crossover randomized controlled trial. Journal of Affective Disorders, 311, 604-613"
+    },
+    {
+        "authors": "Giraldo‐ O’Meara et al., (2022)",
+        "journal": "Clinical Psychologist",
+        "population": "Community",
+        "module": "Self-esteem",
+        "isRct": false,
+        "summary": [
+            "App use was associated with increased self-esteem and mood",
+            "The higher the level participants used the app the more their self-esteem increased",
+            "Real world data is consistent with findings from previous controlled studies"
+        ],
+        "fullText": "Objective. Using real world data, we examined the associations between self-esteem ratings and short, daily use of a Cognitive Behavioural Therapy (CBT)-based mobile application targeting self-esteem related beliefs. The effects of using this application on mood ratings were also assessed.\n\nMethod. Real world data of GG Self-esteem users was collected from January 2019 until August 2019. Participants’ self-esteem and mood scores were evaluated at three time points corresponding to levels 1, 20 and 46 of the mobile application. \n\nResults. Significant increases in self-esteem ratings were found across all three time points. Increased mood ratings were only found at level 20, compared to baseline. Dropout rates across assessment points were associated with younger age, and males showed significantly higher self-esteem scores than women at baseline and the second assessment point. \n\nConclusions. Our findings are consistent with previous controlled trials indicating that using CBT-based mHealth applications targeting maladaptive beliefs may be useful for increasing user’s wellness and reducing distress.\n\ncite: O’Meara, M., Doron. G. (2022). Can self-esteem be improved using short daily training on mobile applications? Examining real world data of GG self-esteem users. Clinical Psychologist. "
+    },
+    {
+      "authors": "Akin-Sari et al., (2022), Turkey",
+      "journal": "Journal of Affective Disorders",
+      "population": "High COVID Distress",
+      "module": "COVID-19",
+        "isRct": true,
+      "summary": [
+           "The COVID-19 pandemic has been a stressor with severe mental health consequences.",
+          "Mental health applications are accessible self-help tools that can be used to reduce psychological distress during the pandemic.",
+          "This randomized controlled trial evaluated the effects of mobile-based cognitive training exercises on COVID-19 related distress and maladaptive cognitions."
+      ],
+      "fullText": "Objective: The COVID-19 pandemic has been a stressor with severe mental health consequences. Mental health applications are accessible self-help tools that can be used to reduce psychological distress during the pandemic. This randomized controlled trial evaluated the effects of mobile-based cognitive training exercises on COVID-19 related distress and maladaptive cognitions.\n\nMethod: Participants were randomized into two groups. Both groups used the app for 12 days but one group stared using it immediately at baseline, and the other group waited.\n\nResults: Using GGcov was associated with reductions in targeted symptoms and cognitions relative to our delayed use comparison group. Our findings suggest large effect-size decreases in measures of COVID-19 distress, depression, anxiety and stress symptoms in the immediate group that were replicated in the delayed group. Using GGcov was also associated with significant large effect-size reduction in COVID-19 related beliefs.\n\nConclusion: Online and mobile applications-based self-help interventions may help overcome barriers and provide a more accessible, effective and low-cost alternative. Mental health interventions, may also be used as resilience promoting tools.\n\nCite: Akin-Sari, B., Inozu, M., Haciomeroglu, B., Trak, E., Tufan, D., & Doron, G. (2022) Cognitive training using a mobile app as a coping tool against COVID-19 distress: A crossover randomized controlled trial. Journal of Affective Disorders, 311, 604-613."
+  },
+  {
+    "authors": "Cerea et al., (2021), Italy",
+    "journal": "Behavior Therapy",
+    "population": "High risk BID’s",
+    "module": "Body image",
+      "isRct": true,
+    "summary": [
+         "Body dissatisfaction is prevalent in young women, and is associated with symptoms of body dysmorphic disorder (BDD) and eating disorders (EDs).",
+        "The aim of the study was to assess the efficacy of a mobile application, based on cognitive behavioral principles, in reducing body dissatisfaction and BDD/ED symptoms in female university students considered at high-risk of developing body image disorders (BIDs)."
+    ],
+    "fullText": "Objective: Body dissatisfaction is prevalent in young women, and is associated with symptoms of body dysmorphic disorder (BDD) and eating disorders (EDs). The aim of the study was to assess the efficacy of a mobile application, based on cognitive behavioral principles, in reducing body dissatisfaction and BDD/ED symptoms in female university students considered at high-risk of developing body image disorders (BIDs).\n\nMethod: Fifty university students at high-risk of developing BIDs (using self-report questionnaires assessing BIDs and the Structured Clinical Interview for DSM-5 Clinical Version) were randomized in two groups: immediate-use App group (iApp group; n = 25) and delayed-use App group (dApp group; n = 25). The iApp group started using the app at baseline for 16 days (T0 to T1). The dApp group waited for 16 days before starting to use the app (T1 to T2). Participants completed questionnaires at baseline (T0), 16 days from baseline (T1), and 32 days from baseline (T2).\n\nResults: Repeated measure Analyses of Variance (ANOVAs) showed a Group (iApp vs. dApp) × Time (T0 vs. T1) interaction on BDD symptoms indicating medium effect size (partial eta squared) reductions in the iApp group compared to dApp group at T1; post intervention means for BDD symptoms were under the cut-off for extreme body dissatisfaction/BDD symptoms in both groups. Pertaining to ED symptoms, no significant Group × Time interaction was detected.\n\nConclusions: Training 3 minutes a day for 16 days with a CBT-based mobile application may lead to reductions in some forms of body dissatisfaction, including BDD symptoms in female university students at high-risk of developing BIDs. On the other hand, effects of the intervention on ED symptoms seem more limited.\n\nCite: Cerea, S., Ghisi, M,. Bottesi, G., Manoli, T., Carraro, E., & Doron, G., (2021). Cognitive Behavioral Training Using a Mobile Application Reduces Body Image-Related Symptoms in High-Risk Female University Students: A Randomized Controlled Study. Behavior Therapy, 52, 170–182."
+    },
+    {
+        "authors": "Ben-Zeev et al., (2021), USA",
+        "journal": "JMIR",
+        "population": "SMI",
+        "module": "CORE",
+          "isRct": true,
+        "summary": [
+            "People with serious mental illness (SMI) have mental health needs that are not met.",
+            "Development and testing of digital interventions that can alleviate the suffering of people with SMI."
+        ],
+        "fullText": "Objective: People with serious mental illness (SMI) have mental health needs that are not met. Development and testing of digital interventions that can alleviate the suffering of people with SMI.\n\nMethod: Individuals were recruited via Google and Facebook advertisements. Participants were randomized into either active intervention or waitlist control groups. Both groups took an assessment at baseline. The participants in the active group used CORE for 30 days, took another assessment and then stopped using CORE. The waitlist group didn’t use CORE from baseline to the 30 day mark, took an assessment, and then started using CORE. Both groups took their last assessment at the 60 day mark. Both groups also completed usability and accessibility measures after they concluded their intervention periods.\n\nResults: 315 individuals from 45 states participated in this study. The sample was comprised of individuals with self-reported bipolar disorder (35.2%), major depressive disorder (43.2%), and schizophrenia disorder (21.6%) who displayed moderate to severe symptoms and disability levels at baseline. Participants rated CORE as highly usable and acceptable. Intent-to-treat analyses showed significant treatment×time interactions for the depression, anxiety, recovery, self-esteem and disability assessments. Large effects were observed for the depression, recovery and self-esteem assessments; a moderate effect size was observed for the disability assessment, and a small effect size was observed for the anxiety assessment. Similar changes in outcome measures were later observed in the waitlist control group participants following crossover after they received CORE.\n\nConclusion: CORE showed promise as a usable, acceptable, and effective tool for reducing the severity of psychiatric symptoms and disability while improving recovery and self-esteem. Rapid adoption and real-world dissemination of evidence-based mobile health interventions such as CORE are needed if we are to shorten the science-to-service gap and address the significant unmet mental health needs of people with SMI during the COVID-19 pandemic and beyond.\n\nCite: Ben-Zeev, D., Chander, A., Tauscher, J., Benjamin, B., Nepal, S., Campbell, A., & Doron, G. (2021) A Smartphone Intervention for People With Serious Mental Illness: Fully Remote Randomized Controlled Trial of CORE. Journal of Medical Internet Research, 23."
+    },
+    {
+        "authors": "Aboody et al., (2020), Israel",
+        "journal": "Behavior Research and Therapy",
+        "population": "Women Students",
+        "module": "Body image",
+           "isRct": true,
+        "summary": [
+           "Body image disturbance (BID) is an increasingly common condition among women.",
+            "We investigated an accessible mobile application for BID.",
+            "Application use was linked with decreased BID and increased body appreciation.",
+            "Users of the app showed increased resilience on an Instagram exposure task."
+        ],
+        "fullText": "Objective: Body image disturbance (BID) is increasingly common among women, characterized by persistent and distressing appearance dissatisfaction and linked with eating disorders. Although effective, cognitive behavioral therapy (CBT) delivered by trained professionals is not easily accessible. This randomized trial evaluated the effects of a CBT-based mobile application designed to increase resilience to body image triggers and reduce BID symptoms.\n\nMethod: A non-clinical sample of women (N = 90; Mage = 23.52) were randomized to use the mobile application for approximately four minutes of daily exercises for two weeks or to a control condition. Body image was measured at baseline, immediately after two weeks of mobile application use, and 1-month follow-up. To examine whether using the application was associated with increased resilience to common BID triggers, participants completed an Instagram exposure resilience task upon completion and at 1-month follow-up.  \n\nResults: Relative to those in the control condition, participants who used the application demonstrated increased resiliency and reduced BID symptoms. Theses effects were medium-to-large and were maintained at 1-month follow-up.\n\nConclusion: These results underscore the potential usefulness of brief, low-intensity, portable interventions in reducing BID symptoms and in increasing resilience to messages that thin is the ideal body type often portrayed on social media.\n\ncite: Aboody, D., Siev. j., & Doron, G., (2020). Building resilience to body image triggers using brief cognitive training on a mobile application: a randomized controlled trial. Behaviour Research and Therapy, 134, 103723."
+    },
+    {
+        "authors": "Cerea et al., (2020), Italy",
+        "journal": "Journal of Affective Disorders",
+        "population": "High risk ROCD",
+        "module": "ROCD",
+         "isRct": true,
+        "summary": [
+            "ROCD is characterized by symptoms pertaining to interpersonal relationships.",
+            "ROCD is associated with dyadic distress, depression, and anxiety.",
+            "Daily training with a mobile app may reduce ROCD symptoms in subclinical samples.",
+            "A mobile app may be effective for university students with ROCD concerns."
+        ],
+        "fullText": "Background: Relationship Obsessive-Compulsive Disorder (ROCD) is a disabling presentation of Obsessive Compulsive Disorder (OCD) centering on interpersonal relationships. The aim of the current randomized control trial (RCT) was to assess the efficacy of short, daily, game-like cognitive interventions, delivered using a mobile application, in reducing subclinical ROCD symptoms and associated phenomena.\n\nMethods: Fifty university students identified as having subclinical levels of ROCD symptoms (using the Structured Clinical Interview for DSM-5 Clinical Version) were randomized in two groups: the an immediate-use group (iApp group; n = 25) and a delayed-use group (dApp group; n = 25). Participants in the iApp group started using a cognitive-behavioral training application at baseline for 15 days (T0 to T1). Participants in the dApp group commenced using the application at T1 for a period of 15 days (T1 to T2). All participants completed questionnaires at baseline (T0), 15 days from baseline (T1), and 31 days from baseline (T2).\n\nResults: Repeated measure ANOVAs showed significant Group (iApp vs. dApp) × Time (T0 vs. T1) interactions indicating greater decrease on ROCD symptoms, OCD beliefs, and social anxiety symptoms, as well as greater self-esteem increase in the iApp group compared to dApp group at T1. Moreover, analyses using the reliable change index (RCI) indicated reliable change for a significant portion of participant (42 to 50 percent) on ROCD symptoms.\n\nLimitations: The size of the sample and use of self-report measures limit the generalizability and replicability of the results.\n\nConclusions: Short, daily cognitive training interventions delivered using mobile applications may be useful in reducing subclinical OCD symptoms and associated features.\n\nCite: Cerea S., Ghisi, M., Bottesi, G., Carraro., T., Broggio, D., & Doron (2020). Reaching reliable change using short, daily, cognitive training exercises delivered on a mobile application: The case of Relationship Obsessive Compulsive Disorder (ROCD) symptoms and cognitions in a subclinical cohort. Journal of Affective Disorder, 276, 775-787."
+    },
+    {
+        "authors": "Roncero et al., (2019), Spain",
+        "journal": "JMIR mHealth uHealth",
+        "population": "Students",
+        "module": "ROCD",
+          "isRct": true,
+        "summary": [
+             "A cross-over RCT study showed the efficacy of a mobile-app based intervention in reducing maladaptive beliefs.",
+              "App use (GGRO) was also associated with a reduction in obsessive-compulsive symptoms.",
+              "Brief, daily training using GGRO can reduce maladaptive beliefs."
+        ],
+        "fullText": "Background: Obsessive compulsive disorder (OCD) is a disabling condition with a wide variety of clinical presentations including contamination fears, fear of harm, and relationship-related obsessions. Cognitive behavioral models of OCD propose obsessive-compulsive (OC) symptoms result from catastrophic misinterpretations of commonly occurring intrusive experiences and associated dysfunctional strategies used to manage them. OCD-related maladaptive beliefs including inflated responsibility, importance and control of thoughts, perfectionism, and intolerance for uncertainty increase the likelihood of such misinterpretations.\n\nObjective: Consistent with accumulating evidence suggesting mobile health (mHealth) apps based on cognitive-behavioral principles may lead to significant reductions in psychopathological symptoms, we assessed the effectiveness of a novel cognitive training app (GGRO) designed to challenge OCD-related beliefs.\n\nMethods: Ninety-seven students were randomized to immediate use (iApp) or delayed use (dApp) groups of GGRO. All participants were requested to complete a web-based assessment, with questionnaires relating to maladaptive beliefs, mood, and OC symptoms at baseline (T1), 15 days following baseline (T2) and 30 days following baseline (T3). Participants in iApp group started using the app at baseline and continued using the app for 15 consecutive days. They were then requested to stop using the app until T3. Participants in the dApp group were requested to wait for 15 days and only then start using the app (cross-over) for 15 consecutive days.\n\nResults: All participants used the app for a mean 14.07 (SD=1.41) days with a 2.94 levels per day. Replicating previous findings, app use was associated with medium-large effect size reductions in both groups iApp (n=51) and dApp (n=46). In the iApp group, all effects remained significant during 15 days follow-up. Analyses focusing on the first two assessment occasions revealed significant Treatment × Repeated Measures interactions for maladaptive beliefs, several OC symptom measures, and self-esteem. \n\nConclusions: This study provides further evidence for the efficacy of GGRO as a mobile-delivered training exercise, useful for the reduction of OCD-related beliefs and symptoms.\n\nTrial registration: ClinicalTrial.gov ID NCT03571464.\n\nCite: Roncero, M., Belloch, A., & Doron, G. (2019). Can brief, daily training using a mobile applications help change maladaptive beliefs? A cross-over randomized-control study evaluating the efficacy of a mobile-app based intervention in reducing maladaptive beliefs and obsessive-compulsive symptoms. JMIR mHealth and uHealth, 7, e11443, DOI: 10.2196/11443.\n\nTo see a pre-printed version of the paper see this link"
+      },
+      {
+        "authors": "Pascual-Vera et al. (2018), Spain",
+        "journal": "The Bulletin of the Menninger Clinic",
+        "population": "Clinical",
+        "module": "OCD",
+         "isRct": false,
+        "summary": [
+           
+        ],
+        "fullText": "Objective: Mobile health-apps increase the accessibility of Cognitive Behavioral-based interventions before, during, or following treatment. GGOC is a mobile app designed to challenge maladaptive beliefs in Obsessive-Compulsive Disorder (OCD). This single-case study assesses the usefulness of GGOC as a relapse prevention tool for individuals with OCD.\n\nMethod: The patient was a 26-year-old female with severe contamination and washing/cleaning OCD symptoms (Y-BOCS=33) and co-morbid Major Depression. GGOC was used for relapse prevention (daily/2weeks) following 32 weekly/sessions of individual CBT (Y-BOCS at the end of CBT and before GGOC=7). Patient completed 47 levels dedicated to OCD-relevant maladaptive beliefs. Before and after GGOC, the Y-BOCS, Obsessive-Compulsive Inventory (OCI-R), Obsessive Beliefs Questionnaire (OBQ-20), and DASS-20 Depression were completed.\n\nResults: The OBQ-20 and OCI-R scores decreased from pre- to post-GGOC. The Y-BOCS score decreased from 7 pre-GGOC to 2 post-GGOC.\n\nConclusions: Findings support the efficacy of GGOC as a relapse prevention tool for individuals with OCD which contributes to maintaining gains after CBT.\n\nCite: Pascual-Vera, B., Roncero, M., Doron, G., & Belloch, A. (2018). Assisting relapse prevention in OCD using a novel mobile app-based intervention: A case report. The Bulletin of the Menninger Clinic, 82, 390-406.\n\nTo see a pre-printed version of the paper see this link"
+    },
+    {
+        "authors": "Roncero et al., (2018), Spain",
+        "journal": "Journal of Behavior Therapy and Experimental Psychiatry",
+        "population": "Students",
+        "module": "ROCD",
+        "isRct": false,
+        "summary": [
+            "Relationship Obsessive-Compulsive Disorder is understudied in clinical samples",
+            "The study aimed to test the role of specific and general beliefs involved in ROCD",
+            "Perfectionism and catastrophic relationship beliefs were strongly related to ROCD",
+            "Relationship-centered obsessions were predicted by concern over mistakes",
+            "Catastrophic fear of being in the wrong relationship was the main predictor"
+        ],
+        "fullText": "Background and objectives: According to cognitive models, obsessive compulsive symptoms result from catastrophic misinterpretations of commonly occurring intrusive experiences and the use of counterproductive strategies to manage them. Obsessive Compulsive Disorder (OCD) related beliefs such as inflated responsibility, importance of thoughts and perfectionism increases the likelihood of such misinterpretations. Consistent with a growing body of literature supporting the usefulness of mobile delivered technologies in fostering cognitive behavior change, the present study assessed the effectiveness of a novel cognitive training exercise designed to challenge OCD-related beliefs. This mobile app training exercise consists of users having to pull statements challenging OCD beliefs towards themselves (downwards) and to throw away (push upwards) contra-productive self-statements. \n\nMethods: 36 third-year BA students started the trial. Twenty completed pre and post measures of OCD-beliefs, mood and OCD symptoms including relationship-obsessions. Participants were instructed to complete 3 min of daily training for a period of 15 days. \n\nResults: No significant differences were found between completers and non-completers on demographic and most symptom related measures at Time 1. Repeated-measures MANOVA of the 20 completers showed a significant reduction on all OCD symptoms measures and on OCD-beliefs. No significant reduction was found in depression symptoms. Regression analysis showed change in levels of OCD-beliefs was associated with reduction in OCD symptoms at Time 2 over and above OCD symptoms at Time 1. \n\nLimitations: The study is an open trial with non-clinical participants. Conclusions: This mobile delivered training exercise may be useful for the reduction and relapse prevention of OCD-related beliefs and symptoms.\n\nCite: Roncero, M., Belloch, A., & Doron, G. (2018). A novel approach of challenging OCD related beliefs using a mobile-app: An exploratory study. Journal of Behavior Therapy and Experimental Psychiatry, 59, 157-160."
+    }
+  ]
+} 
