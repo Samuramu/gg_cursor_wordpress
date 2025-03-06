@@ -19,6 +19,7 @@ import FAQ from './pages/FAQ';
 import APIDocumentation from './pages/APIDocumentation';
 import BookDemo from './components/BookDemo';
 import NotFound from './pages/NotFound';
+import ResourceRedirect from './pages/ResourceRedirect';
 import { useState } from 'react';
 
 const queryClient = new QueryClient();
@@ -35,11 +36,14 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/post/:slug" element={<Post />} />
+          <Route path="/resources/:slug" element={<ResourceRedirect />} />
           <Route path="/solutions" element={<Solutions />} />
           <Route path="/science" element={<Science />} />
           <Route path="/about" element={<About />} />
           <Route path="/the-science-behind-ggtude" element={<Science />} />
           <Route path="/privacy" element={<Privacy />} />
+          <Route path="/privacy-policy" element={<Privacy />} />
+          <Route path="/website-privacy-policy" element={<Privacy />} />
           <Route path="/terms" element={<Terms />} />
           <Route path="/support" element={<Support />} />
           <Route path="/subscriptions" element={<Subscriptions />} />
