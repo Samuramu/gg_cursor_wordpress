@@ -34,4 +34,20 @@ function thinkable_cors_headers() {
     header('Access-Control-Allow-Methods: GET, POST, OPTIONS');
     header('Access-Control-Allow-Credentials: true');
 }
-add_action('init', 'thinkable_cors_headers'); 
+add_action('init', 'thinkable_cors_headers');
+
+// Add rewrite rule for alternative privacy policy URL
+function thinkable_rewrite_rules() {
+    add_rewrite_rule(
+        'website-privacy-policy/?$',
+        'index.php?pagename=privacy-policy',
+        'top'
+    );
+    
+    // Flush rewrite rules only once
+    if (!get_option('thinkable_rewrite_rules_flushed')) {
+        flush_rewrite_rules();
+        update_option('thinkable_rewrite_rules_flushed', true);
+    }
+}
+add_action('init', 'thinkable_rewrite_rules'); 
